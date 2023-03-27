@@ -1,0 +1,49 @@
+@media (max-width: 575px) and (min-width: 300px) {
+  .description {
+    text-align: center;
+  }
+  .text-description, .description-text, .payment-type-text {
+    display: block;
+    text-align: center;
+  }
+  .payment-type-text, .text-description {
+    margin-top: 20px;
+  }
+  .donation-form {
+    display: flex;
+    flex-direction: column;
+  }
+  .donation-card {
+    margin-top: 20px;
+  }
+  .contact-information {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  .contact-information-input {
+    display: flex;
+    flex-direction: column;
+  }
+  .contact-text, .donation-text {
+    text-align: center;
+  }
+  .donation-type {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .donation-amount {
+    width: 100%;
+  }
+  .donation-type input, label {
+    margin-left: 5px;
+  }
+  .chino-image {
+    width: 100%;
+  }
+  .chino-image img {
+    width: 100%;
+  }
+
+}

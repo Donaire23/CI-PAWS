@@ -1,0 +1,15 @@
+@media (max-width: 575px) and (min-width: 300px) {
+  .furry-Friends {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+   
+  }
+  .delta {
+    width: 10px;
+  }
+  .a-text {
+    width: 100%;
+  }
+
+}

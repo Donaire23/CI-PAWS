@@ -1,0 +1,26 @@
+@media (max-width: 575px) and (min-width: 300px) {
+  .card1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .location img {
+    width: 100%;
+  }
+  .volunteer-text {
+    text-align: center;
+  }
+  .a-text {
+    margin-bottom: 50px
+  }
+  .usagi {
+    display: flex;
+    justify-content: center;
+    width: 260px;
+  }
+  .usagi img {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+}
+

@@ -1,0 +1,55 @@
+@media (max-width: 575px) and (min-width: 300px) {
+  .chino-image img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .card2 {
+    display: flex;
+    flex-direction: column-reverse;
+    
+  }
+  .card22 {
+    margin-top: 60px;
+  }
+ .card3 {
+  display: flex;
+  flex-direction: column;
+ }
+ .card3 img {
+  display: block;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px;
+ }
+ .card33, .card44 {
+  margin-top: 50px;
+ }
+ .card4 {
+  display: flex;
+  flex-direction: column-reverse;
+ }
+ .card5 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+ }
+ .card6 {
+  display: flex;
+  flex-direction: column-reverse;
+ }
+ .card66 {
+  margin-top: 50px;
+ }
+ .we-help-text, .we-help-description, .we-teach-text {
+  text-align: center;
+ }
+ .we-teach-animals {
+  text-align: center;
+ }
+ .us-text {
+  margin: 0 auto;
+  text-align: center;
+ }
+
+ 
+}

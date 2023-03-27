@@ -1,0 +1,12 @@
+@media (max-width: 575px) and (min-width: 200px) {
+  .contact-form {
+    width: 100%;
+  }
+  .contact-fill-up {
+    width: 100%;
+  } 
+  .cases-text, .cruelty-cases-title, .contact-text, .header-text{
+    text-align: center;
+  }
+  
+}

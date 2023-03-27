@@ -1,0 +1,17 @@
+
+
+@media (max-width: 575px) and (min-width: 300px) {
+   .card2 {
+    display: flex;
+    flex-direction: column-reverse;
+   }
+   .card3, .card4  {
+    margin-top: 60px;
+   }
+   .why-should-text p {
+    display: block;
+    text-align: center;
+   }
+  }
+
+  
